@@ -273,21 +273,26 @@ El proyecto fue desarrollado de forma colaborativa en todas sus fases — recopi
 <table>
   <tr>
     <td align="center">
-      <b>Arantxa Barea</b><br>
+      <b>Arantxa Barea</b><br><br>
       <a href="https://www.linkedin.com/in/arantxa-barea">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" 
+             alt="LinkedIn" style="display:inline-block;margin-right:6px;"/>
       </a>
       <a href="https://github.com/arantxa-90">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" 
+             alt="GitHub" style="display:inline-block;"/>
       </a>
     </td>
+
     <td align="center">
-      <b>Camila López</b><br>
+      <b>Camila López</b><br><br>
       <a href="https://www.linkedin.com/in/camila-adriana-lopez-martin">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" 
+             alt="LinkedIn" style="display:inline-block;margin-right:6px;"/>
       </a>
       <a href="https://github.com/camilalopezmrt">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" 
+             alt="GitHub" style="display:inline-block;"/>
       </a>
     </td>
   </tr>
