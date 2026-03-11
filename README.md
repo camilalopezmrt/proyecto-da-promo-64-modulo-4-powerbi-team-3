@@ -270,26 +270,27 @@ Los datos procesados en `data/processed/` ya están listos para ser cargados a t
 
 El proyecto fue desarrollado de forma colaborativa en todas sus fases — recopilación de datos, análisis, limpieza y visualización.
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <b>Arantxa Barea</b><br><br>
-      <a href="https://www.linkedin.com/in/arantxa-barea">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <a href="https://www.linkedin.com/in/arantxa-barea" style="text-decoration:none;">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
       </a>
-      &nbsp;
-      <a href="https://github.com/arantxa-90">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+      <br>
+      <a href="https://github.com/arantxa-90" style="text-decoration:none;">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
       </a>
     </td>
+    <td width="60"></td>
     <td align="center">
       <b>Camila López</b><br><br>
-      <a href="https://www.linkedin.com/in/camila-adriana-lopez-martin">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <a href="https://www.linkedin.com/in/camila-adriana-lopez-martin" style="text-decoration:none;">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
       </a>
-      &nbsp;
-      <a href="https://github.com/camilalopezmrt">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+      <br>
+      <a href="https://github.com/camilalopezmrt" style="text-decoration:none;">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
       </a>
     </td>
   </tr>
