@@ -198,7 +198,6 @@ El proyecto incluye **3 dashboards interactivos** desarrollados en Power BI:
 │   └── 02_data_cleaning.ipynb            # Limpieza y validación
 │
 ├── 📁 docs/
-│   ├── Documentacion.ipynb               # Documentación técnica del proyecto
 │   ├── eda_report.md                     # Informe del análisis exploratorio
 │   └── data_cleaning_report.md           # Informe de limpieza y decisiones tomadas
 │
@@ -274,21 +273,19 @@ El proyecto fue desarrollado de forma colaborativa en todas sus fases — recopi
 <table>
   <tr>
     <td align="center">
-      <b>Arantxa Barea</b><br><br>
+      <b>Arantxa Barea</b><br>
       <a href="https://www.linkedin.com/in/arantxa-barea">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>
-      &nbsp;
       <a href="https://github.com/arantxa-90">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
       </a>
     </td>
     <td align="center">
-      <b>Camila López</b><br><br>
+      <b>Camila López</b><br>
       <a href="https://www.linkedin.com/in/camila-adriana-lopez-martin">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>
-      &nbsp;
       <a href="https://github.com/camilalopezmrt">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
       </a>
