@@ -270,7 +270,7 @@ Los datos procesados en `data/processed/` ya están listos para ser cargados a t
 
 El proyecto fue desarrollado de forma colaborativa en todas sus fases — recopilación de datos, análisis, limpieza y visualización.
 
-<table align="center">
+<table>
   <tr>
     <td align="center">
       <b>Arantxa Barea</b><br><br>
@@ -282,7 +282,6 @@ El proyecto fue desarrollado de forma colaborativa en todas sus fases — recopi
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
       </a>
     </td>
-    <td width="60"></td>
     <td align="center">
       <b>Camila López</b><br><br>
       <a href="https://www.linkedin.com/in/camila-adriana-lopez-martin" style="text-decoration:none;">
